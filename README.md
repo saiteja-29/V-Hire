@@ -1,4 +1,4 @@
-# VHire Iteration 2
+# VHire
 **GitHub link: https://github.com/anuksha11/VHire/tree/iteration-2** <br><br>
 Many companies face challenges in conducting interviews, as their tech teams are often engaged in the interview process voluntarily, which can lead to vague and inconsistent interviews and requires too much of their bandwidth for this. To address this, we propose developing software that outsources the first or technical round of interviews. This solution will benefit both candidates and companies by offering a seamless interview experience for applicants while making it easier for companies to shortlist candidates.Additionally, it will significantly reduce the effort required from engineering teams during the technical round of the hiring process.
 
